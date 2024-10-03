@@ -1,0 +1,18 @@
+# Ignorera node_modules-mappen, den skapas när du installerar beroenden med npm
+node_modules/
+
+# Ignorera byggda filer (om du använder byggverktyg som Parcel eller Webpack)
+dist/
+build/
+
+# Ignorera loggfiler (ifall det genereras några loggfiler)
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignorera miljövariabler om du använder en .env-fil för API-nycklar eller känslig data
+.env
+
+# Ignorera OS-specifika filer
+.DS_Store
+Thumbs.db
