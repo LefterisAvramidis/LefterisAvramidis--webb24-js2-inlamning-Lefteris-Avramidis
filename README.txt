@@ -6,7 +6,7 @@ Navigera till rätt fil med hjälp av cd på följande sätt:
 2. cd Backend
 3. cd src
 
-Därefter skriver du "nodeerve sr.js" för att starta node servern. 
+Därefter skriver du "node server.js" för att starta node servern. 
 -------------------------------------------------------------------
 
 ---STARTA HTML--------------------------------------------------------------------
